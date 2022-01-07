@@ -11,7 +11,7 @@ int sumarInts(int x, int y)
 	return x + y;
 }
 
-int sumarDoubles(double x, double y)
+double sumarDoubles(double x, double y)
 {
 	return x + y;
 }
